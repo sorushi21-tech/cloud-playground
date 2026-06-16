@@ -214,6 +214,7 @@ Containers virtualize the operating system environment and share the host OS ker
 | Isolation     | Strong               | Process-level      |
 | Example tools | VMware, Hyper-V, KVM | Docker, Kubernetes |
 
+
 ## Common Virtualization Terms
 
 - Hypervisor: Software that creates and manages VMs
